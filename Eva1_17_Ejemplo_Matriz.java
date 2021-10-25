@@ -5,7 +5,7 @@
 package Eva1_17_Ejemplo_Matriz;
 
 
-public class Eva_17_Ejemplo_Matriz {
+public class Eva1_17_Ejemplo_Matriz {
 
     /**
      * @param args the command line arguments
