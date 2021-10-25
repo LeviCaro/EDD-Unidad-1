@@ -7,7 +7,7 @@ package Eva1_18_Promedios;
 import java.util.Scanner;
 
 
-public class Eva_18_Promedios {
+public class Eva1_18_Promedios {
 
     /**
      * @param args the command line arguments
