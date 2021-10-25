@@ -5,7 +5,7 @@
 package Eva1_19_cubo;
 
 
-public class Eva_19_Cubo {
+public class Eva1_19_Cubo {
 
     /**
      * @param args the command line arguments
